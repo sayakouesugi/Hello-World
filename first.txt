@@ -1,3 +1,5 @@
+git clone https://github.com/sayakouesugi/Hello-World.git
+
 git add .
 git commit -m "message"
 git push
